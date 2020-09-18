@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DCG-Cloud/well-architected-framework/issues"
   },
-  "homepage": "https://github.com/DCG-Cloud/well-architected-framework#readme"
+  "homepage": "https://github.com/DCG-Cloud/well-architected-framework#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
