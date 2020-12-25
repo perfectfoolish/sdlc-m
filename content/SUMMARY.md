@@ -8,6 +8,7 @@
 * [可靠性](reliability.md)
 * [性能效率](performanceEfficiency.md)
 * [成本优化](costOptimization.md)
+* [sdlc](sdlc.md)
 
 ## 卓越运营支柱
 卓越运营支柱侧重于运行和监测系统以提供业务价值，并不断改进流程和程序。关键主题包括：自动化变更、响应事件以及定义标准以管理日常操作。
