@@ -1,7 +1,7 @@
 {
   "name": "well-architected-framework",
   "version": "1.0.0",
-  "description": "基于以下云厂商的体系来整理我们自己的体系",
+  "description": "软件持续交付管理",
   "main": "index.js",
   "scripts": {
     "start": "gitbook serve ./content ./gh-pages",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DCG-Cloud/well-architected-framework.git"
+    "url": "git+https://github.com/perfectfoolish/sdlc-m.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DCG-Cloud/well-architected-framework/issues"
+    "url": "https://github.com/perfectfoolish/sdlc-m/issues"
   },
-  "homepage": "https://github.com/DCG-Cloud/well-architected-framework#readme",
+  "homepage": "https://github.com/perfectfoolish/sdlc-m#readme",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
